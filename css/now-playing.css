@@ -1,0 +1,18 @@
+#now-playing .custom-card {
+    border-radius: 15px;
+    overflow: hidden;
+    border: 0;
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.1);
+    color: #141414;
+    margin: 10px;
+}
+
+#now-playing .custom-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.0.8);
+    border: solid 2px #6099beb4;
+}
+
+#now-playing .col-custom {
+    padding: 20px;
+}
